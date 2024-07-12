@@ -1,3 +1,3 @@
 Meme Token
-White Paper (PDF) raw 11 mb download
+White Paper (https://github.com/MrPeanutsz/DeezNuts/blob/main/Deez%20Nuts.pdf) download the raw pdf
 Rugninja (https://rug.ninja/Deez)
